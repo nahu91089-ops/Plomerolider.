@@ -1,0 +1,19 @@
+
+ARCHIVOS INCLUIDOS:
+- index.html           -> Página principal (landing de una sola página)
+- estilos.css          -> Estilos (colores: blanco + azul oscuro + detalles amarillo)
+- favicon.png          -> Icono (placeholder)
+- palabras-clave.txt   -> Lista de keywords para Google Ads / SEO
+- instrucciones.txt    -> Pasos para subir a GitHub y Vercel rápidamente
+- LEER-PRIMERO.txt     -> Este archivo
+
+Contacto principal y teléfonos incluidos en la web:
+- WhatsApp y Teléfono: 1136663959
+
+INSTRUCCIONES RÁPIDAS (resumen):
+1) Subir carpeta al repositorio en GitHub (crear repo llamado 'plomerolider').
+2) Conectar GitHub a Vercel (Iniciar sesión en vercel.com con 'Continue with GitHub').
+3) En Vercel, elegir el proyecto y hacer Deploy. Después agregar el dominio plomerolider.com.ar en Settings > Domains.
+4) En NIC.ar, actualizar DNS según las instrucciones que Vercel muestre (A records o delegación).
+
+Si querés, te doy paso a paso con capturas para cada uno de esos pasos una vez subas el ZIP y comiences el proceso.

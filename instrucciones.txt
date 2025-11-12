@@ -1,0 +1,13 @@
+
+PASOS DETALLADOS PARA SUBIR LA WEB (GitHub + Vercel)
+
+1) Crear cuenta en GitHub (https://github.com) y confirmar el email.
+2) Crear un nuevo repositorio (botón '+', 'New repository'), poner nombre: plomerolider, público, Create repository.
+3) En tu PC, descomprimí este ZIP y subí los archivos a la carpeta del repositorio (puedes arrastrar y subir desde la web de GitHub en 'Add file' -> 'Upload files').
+4) Luego, en Vercel (https://vercel.com) registrate o inicia sesión con 'Continue with GitHub' y da permisos al repositorio plomerolider.
+5) En Vercel, clic en 'New Project', seleccioná el repositorio 'plomerolider' y luego 'Deploy'.
+6) Vercel va a publicar tu sitio en una URL temporal tipo: https://plomerolider-usuario.vercel.app
+7) Para usar tu dominio (plomerolider.com.ar): en Vercel -> Settings -> Domains -> Add -> escribe plomerolider.com.ar
+   - Vercel te va a mostrar los registros DNS que tenés que poner en NIC.ar (A o CNAME).
+8) Entrá a NIC.ar con tu CUIT y Clave Fiscal, buscá tu dominio -> 'Editar DNS' y pegá los registros que Vercel te dio.
+9) Esperá la verificación (puede tardar entre minutos y 24 horas). Vercel activará HTTPS automáticamente.
